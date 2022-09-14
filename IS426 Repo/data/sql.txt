@@ -1,0 +1,1 @@
+INSERT INTO `mytable` (`id`,`node`) VALUES ('15','14b');
