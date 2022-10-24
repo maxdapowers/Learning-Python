@@ -1,0 +1,649 @@
+Name,Start Date,End Date,Wind Speed
+Name,Start Date,End Date,Wind Speed
+Allison - Hurricane (1995),3/06/1995,6/06/1995,65
+Bertha - Hurricane (2014),1/08/2014,6/08/2014,70
+Bonnie - Hurricane (1998),19/08/1998,30/08/1998,100
+Cindy - Hurricane (1999),19/08/1999,31/08/1999,120
+Cindy - Hurricane (2005),3/07/2005,7/07/2005,65
+Danielle - Hurricane (1998),24/08/1998,3/09/1998,90
+Debby - Hurricane (2000),19/08/2000,24/08/2000,65
+Emily - Hurricane (2005),11/07/2005,21/07/2005,135
+Erika - Hurricane (1997),3/09/1997,15/09/1997,110
+Erin - Hurricane (2001),1/09/2001,15/09/2001,105
+Fay - Hurricane (2014),10/10/2014,13/10/2014,65
+Florence - Hurricane (2006),3/09/2006,12/09/2006,80
+Florence - Hurricane (2000),11/09/2000,17/09/2000,70
+Gabrielle - Hurricane (2001),11/09/2001,19/09/2001,70
+Helene - Hurricane (2006),12/09/2006,24/09/2006,105
+Ida - Hurricane (2009),4/11/2009,10/11/2009,90
+Ingrid - Hurricane (2013),12/09/2013,17/09/2013,75
+Irene - Hurricane (2005),4/08/2005,18/08/2005,85
+Irene - Hurricane (1999),13/10/1999,19/10/1999,90
+Irene - Hurricane (2011),20/08/2011,29/08/2011,105
+Iris - Hurricane (2001),4/10/2001,9/10/2001,125
+Jeanne - Hurricane (1998),21/09/1998,1/10/1998,90
+Joyce - Hurricane (2000),25/09/2000,2/10/2000,80
+Karen - Hurricane (2001),12/10/2001,15/10/2001,70
+Katia - Hurricane (2011),29/08/2011,10/09/2011,115
+Katrina - Hurricane (2005),23/08/2005,31/08/2005,150
+Leslie - Hurricane (2012),30/08/2012,11/09/2012,65
+Lili - Hurricane (2002),21/09/2002,4/10/2002,125
+Lisa - Hurricane (1998),5/10/1998,9/10/1998,65
+Maria - Hurricane (2005),1/09/2005,10/09/2005,100
+Maria - Hurricane (2011),6/09/2011,16/09/2011,70
+Michelle - Hurricane (2001),29/10/2001,6/11/2001,120
+Nadine - Hurricane (2012),11/09/2012,4/10/2012,80
+Nicole - Hurricane (1998),24/11/1998,1/12/1998,75
+Olga - Hurricane (2001),24/11/2001,4/12/2001,80
+Ophelia - Hurricane (2005),6/09/2005,18/09/2005,80
+Ophelia - Hurricane (2011),21/09/2011,3/10/2011,120
+Rina - Hurricane (2011),23/10/2011,28/10/2011,95
+Rita - Hurricane (2005),18/09/2005,26/09/2005,150
+Sandy - Hurricane (2012),22/10/2012,29/10/2012,95
+Wilma - Hurricane (2005),15/10/2005,25/10/2005,150
+Alberto - Hurricane (2000),4/08/2000,23/08/2000,110
+Arthur - Hurricane (2014),1/07/2014,5/07/2014,85
+Bill - Hurricane (1997),11/07/1997,13/08/1997,65
+Bill - Hurricane (2009),15/08/2009,24/08/2009,115
+Bret - Hurricane (1999),18/08/1999,23/08/1999,120
+Chris - Hurricane (2012),19/06/2012,22/06/2012,65
+Cristobal - Hurricane (2014),23/08/2014,29/08/2014,75
+Danny - Hurricane (1997),16/07/1997,26/07/1997,70
+Dean - Hurricane (2007),13/08/2007,23/08/2007,145
+Dennis - Hurricane (2005),5/07/2005,13/07/2005,130
+Dennis - Hurricane (1999),24/08/1999,5/09/1999,90
+Earl - Hurricane (1998),31/08/1998,3/09/1998,85
+Edouard - Hurricane (2014),11/09/2014,19/09/2014,100
+Ernesto - Hurricane (2006),24/08/2006,1/09/2006,65
+Ernesto - Hurricane (2012),1/08/2012,10/08/2012,75
+Felix - Hurricane (2001),7/09/2001,19/09/2001,100
+Felix - Hurricane (2007),31/08/2007,5/09/2007,145
+Floyd - Hurricane (1999),7/09/1999,17/09/1999,135
+Fred - Hurricane (2009),7/09/2009,12/09/2009,105
+Georges - Hurricane (1998),15/09/1998,29/09/1998,130
+Gert - Hurricane (1999),11/09/1999,23/09/1999,130
+Gonzalo - Hurricane (2014),12/10/2014,19/10/2014,125
+Gordon - Hurricane (2000),14/09/2000,18/09/2000,65
+Gordon - Hurricane (2012),15/08/2012,20/08/2012,95
+Gordon - Hurricane (2006),11/09/2006,20/09/2006,105
+Gustav - Hurricane (2002),8/09/2002,12/09/2002,80
+Humberto - Hurricane (2007),12/09/2007,14/09/2007,75
+Humberto - Hurricane (2013),8/09/2013,19/09/2013,75
+Humberto - Hurricane (2001),21/09/2001,27/09/2001,90
+Isaac - Hurricane (2000),21/09/2000,1/10/2000,120
+Isaac - Hurricane (2012),21/08/2012,1/09/2012,70
+Isaac - Hurricane (2006),27/09/2006,2/10/2006,75
+Isidore - Hurricane (2002),14/09/2002,26/09/2002,110
+Ivan - Hurricane (1998),20/09/1998,27/09/1998,80
+Jose - Hurricane (1999),17/10/1999,25/10/1999,85
+Karl - Hurricane (1998),23/09/1998,28/09/1998,90
+Keith - Hurricane (2000),28/09/2000,6/10/2000,115
+Kirk - Hurricane (2012),28/08/2012,2/09/2012,90
+Kyle - Hurricane (2002),20/09/2002,12/10/2002,75
+Lenny - Hurricane (1999),13/11/1999,21/11/1999,130
+Lorenzo - Hurricane (2007),25/09/2007,28/09/2007,70
+Michael - Hurricane (2012),3/09/2012,11/09/2012,100
+Michael - Hurricane (2000),17/10/2000,20/10/2000,85
+Mitch - Hurricane (1998),22/10/1998,5/11/1998,155
+Nate - Hurricane (2005),5/09/2005,10/09/2005,80
+Noel - Hurricane (2007),28/10/2007,2/11/2007,70
+Noel - Hurricane (2001),5/11/2001,6/11/2001,65
+Philippe - Hurricane (2005),17/09/2005,24/09/2005,70
+Philippe - Hurricane (2011),24/09/2011,8/10/2011,80
+Rafael - Hurricane (2012),12/10/2012,17/10/2012,80
+Stan - Hurricane (2005),1/10/2005,5/10/2005,70
+Vince - Hurricane (2005),9/10/2005,11/10/2005,65
+Beta - Hurricane (2005),27/10/2005,31/10/2005,100
+Epsilon - Hurricane (2005),29/11/2005,8/12/2005,75
+Eight - Tropical Depression (2009),25/09/2009,26/09/2009,30
+Eight - Tropical Depression (2013),6/09/2013,7/09/2013,30
+Eleven - Tropical Depression (1999) - Atlantic,4/10/1999,6/10/1999,30
+Fifteen - Tropical Depression (2007),11/10/2007,12/10/2007,30
+Five - Tropical Depression (1997),17/07/1997,19/07/1997,30
+Four - Tropical Depression (2000),9/08/2000,11/08/2000,30
+Fourteen - Tropical Depression (2002),14/10/2002,16/10/2002,30
+Nine - Tropical Depression (2000),9/09/2000,9/09/2000,30
+Nine - Tropical Depression (2001),19/09/2001,20/09/2001,30
+Ninete - Tropical Depression (2005),30/09/2005,2/10/2005,30
+One - Tropical Depression (2009),28/05/2009,29/05/2009,30
+One - Tropical Depression (2000),7/06/2000,8/06/2000,25
+Seven - Tropical Depression (1999),5/09/1999,7/09/1999,30
+Seven - Tropical Depression (2002) - Atlantic,7/09/2002,8/09/2002,30
+Ten - Tropical Depression (2005),13/08/2005,14/08/2005,30
+Ten - Tropical Depression (2007),21/09/2007,22/09/2007,30
+Ten - Tropical Depression (2011),25/08/2011,26/08/2011,30
+Twelve - Tropical Depression (1999),6/10/1999,8/10/1999,30
+Twenty-Seven - Tropical Depression (2005),14/11/2005,16/11/2005,30
+Twenty-Two - Tropical Depression (2005),8/10/2005,9/10/2005,30
+Two - Tropical Depression (1999),3/07/1999,3/07/1999,30
+Two - Tropical Depression (2001),12/07/2001,12/07/2001,25
+Two - Tropical Depression (2014),21/07/2014,23/07/2014,30
+Two - Tropical Depression (2000),24/06/2000,25/06/2000,30
+Alberto - Tropical Storm (2006),10/06/2006,14/06/2006,60
+Alberto - Tropical Storm (2012),19/05/2012,22/05/2012,45
+Alex - Tropical Storm (1998),27/07/1998,3/08/1998,45
+Allison - Tropical Storm (2001),5/06/2001,6/06/2001,50
+Alpha - Tropical Storm (2005),22/10/2005,24/10/2005,45
+Ana - Tropical Storm (2009),11/08/2009,17/08/2009,35
+Ana - Tropical Storm (1997),30/06/1997,4/07/1997,40
+Andrea - Tropical Storm (2013),5/06/2013,7/06/2013,55
+Arlene - Tropical Storm (2011),29/06/2011,1/07/2011,55
+Arlene - Tropical Storm (2005),8/06/2005,13/06/2005,60
+Arlene - Tropical Storm (1999),11/06/1999,18/06/1999,50
+Arthur - Tropical Storm (2002),14/07/2002,16/07/2002,50
+Barry - Tropical Storm (2007),1/06/2007,2/06/2007,45
+Barry - Tropical Storm (2013),17/06/2013,20/06/2013,40
+Barry - Tropical Storm (2001),2/08/2001,6/08/2001,60
+Bertha - Tropical Storm (2002),4/08/2002,9/08/2002,35
+Beryl - Tropical Storm (2000),13/08/2000,15/08/2000,45
+Beryl - Tropical Storm (2006),18/07/2006,21/07/2006,50
+Beryl - Tropical Storm (2012),26/05/2012,30/05/2012,60
+Bret - Tropical Storm (2011),17/07/2011,22/07/2011,55
+Bret - Tropical Storm (2005),28/06/2005,30/06/2005,35
+Chantal - Tropical Storm (2007),31/07/2007,1/08/2007,45
+Chantal - Tropical Storm (2013),8/07/2013,10/07/2013,55
+Chantal - Tropical Storm (2001),15/08/2001,22/08/2001,60
+Charley - Tropical Storm (1998),21/08/1998,22/08/1998,50
+Chris - Tropical Storm (2000),18/08/2000,19/08/2000,35
+Chris - Tropical Storm (2006),1/08/2006,5/08/2006,55
+Cindy - Tropical Storm (2011),20/07/2011,22/07/2011,50
+Claudette - Tropical Storm (1997),13/07/1997,16/07/1997,40
+Claudette - Tropical Storm (2009),16/08/2009,18/08/2009,45
+Cristobal - Tropical Storm (2002),5/08/2002,8/08/2002,40
+Danny - Tropical Storm (2009),26/08/2009,29/08/2009,50
+Dean - Tropical Storm (2001),22/08/2001,28/08/2001,60
+Debby - Tropical Storm (2006),21/08/2006,27/08/2006,45
+Debby - Tropical Storm (2012),23/06/2012,27/06/2012,50
+Delta - Tropical Storm (2005),23/11/2005,28/11/2005,60
+Dolly - Tropical Storm (2014),1/09/2014,3/09/2014,45
+Dolly - Tropical Storm (2002),29/08/2002,4/09/2002,55
+Don - Tropical Storm (2011),27/07/2011,30/07/2011,45
+Dorian - Tropical Storm (2013),24/07/2013,3/08/2013,50
+Edouard - Tropical Storm (2002),1/09/2002,6/09/2002,55
+Emily - Tropical Storm (1999),24/08/1999,28/08/1999,55
+Emily - Tropical Storm (2011),1/08/2011,7/08/2011,45
+Erika - Tropical Storm (2009),1/09/2009,4/09/2009,50
+Erin - Tropical Storm (2013),15/08/2013,18/08/2013,35
+Erin - Tropical Storm (2007),15/08/2007,19/08/2007,35
+Ernesto - Tropical Storm (2000),2/09/2000,3/09/2000,35
+Fabian - Tropical Storm (1997),7/10/1997,8/10/1997,40
+Fay - Tropical Storm (2002),5/09/2002,8/09/2002,50
+Fernand - Tropical Storm (2013),25/08/2013,26/08/2013,45
+Florence - Tropical Storm (2012),4/08/2012,6/08/2012,50
+Frances - Tropical Storm (1998),8/09/1998,12/09/1998,55
+Franklin - Tropical Storm (2011),12/08/2011,13/08/2011,40
+Franklin - Tropical Storm (2005),21/07/2005,29/07/2005,60
+Gabrielle - Tropical Storm (2007),8/09/2007,11/09/2007,45
+Gabrielle - Tropical Storm (2013),4/09/2013,13/09/2013,50
+Gamma - Tropical Storm (2005),18/11/2005,21/11/2005,40
+Gert - Tropical Storm (2011),14/08/2011,16/08/2011,50
+Gert - Tropical Storm (2005),23/07/2005,25/07/2005,40
+Grace - Tropical Storm (1997),16/10/1997,17/10/1997,40
+Grace - Tropical Storm (2009),5/10/2009,6/10/2009,60
+Hanna - Tropical Storm (2002),12/09/2002,14/09/2002,45
+Harvey - Tropical Storm (2011),19/08/2011,22/08/2011,50
+Harvey - Tropical Storm (1999),19/09/1999,22/09/1999,50
+Harvey - Tropical Storm (2005) - Atlantic,2/08/2005,8/08/2005,55
+Helene - Tropical Storm (2012),9/08/2012,18/08/2012,40
+Helene - Tropical Storm (2000),15/09/2000,22/09/2000,55
+Henri - Tropical Storm (2009),6/10/2009,8/10/2009,45
+Hermine - Tropical Storm (1998),17/09/1998,20/09/1998,40
+Ingrid - Tropical Storm (2007),12/09/2007,17/09/2007,40
+Jerry - Tropical Storm (2007),23/09/2007,25/09/2007,40
+Jerry - Tropical Storm (2013),29/09/2013,3/10/2013,45
+Jerry - Tropical Storm (2001),6/10/2001,8/10/2001,45
+Jose - Tropical Storm (2005),22/08/2005,23/08/2005,45
+Jose - Tropical Storm (2011),28/08/2011,29/08/2011,40
+Josephine - Tropical Storm (2002),17/09/2002,19/09/2002,50
+Joyce - Tropical Storm (2012),22/08/2012,24/08/2012,35
+Karen - Tropical Storm (2007),25/09/2007,29/09/2007,60
+Karen - Tropical Storm (2013),3/10/2013,6/10/2013,55
+Katrina - Tropical Storm (1999),28/10/1999,1/11/1999,35
+Lee - Tropical Storm (2005),28/08/2005,2/09/2005,35
+Lee - Tropical Storm (2011),2/09/2011,5/09/2011,50
+Leslie - Tropical Storm (2000),5/10/2000,7/10/2000,35
+Lorenzo - Tropical Storm (2013),21/10/2013,24/10/2013,45
+Lorenzo - Tropical Storm (2001),27/10/2001,31/10/2001,35
+Melissa - Tropical Storm (2013),18/11/2013,21/11/2013,55
+Melissa - Tropical Storm (2007),28/09/2007,30/09/2007,40
+Nadine - Tropical Storm (2000),19/10/2000,22/10/2000,50
+Nate - Tropical Storm (2011),7/09/2011,11/09/2011,60
+Olga - Tropical Storm (2007),11/12/2007,13/12/2007,50
+Oscar - Tropical Storm (2012),3/10/2012,5/10/2012,45
+Patty - Tropical Storm (2012),11/10/2012,13/10/2012,40
+Sean - Tropical Storm (2011),8/11/2011,11/11/2011,55
+Tammy - Tropical Storm (2005),5/10/2005,6/10/2005,45
+Tony - Tropical Storm (2012),22/10/2012,25/10/2012,45
+Zeta - Tropical Storm (2005),30/12/2005,6/01/2006,55
+Name,Start Date,End Date,Wind Speed
+Allison - Hurricane (1995),3/06/1995,6/06/1995,65
+Bertha - Hurricane (2014),1/08/2014,6/08/2014,70
+Bonnie - Hurricane (1998),19/08/1998,30/08/1998,100
+Cindy - Hurricane (1999),19/08/1999,31/08/1999,120
+Cindy - Hurricane (2005),3/07/2005,7/07/2005,65
+Danielle - Hurricane (1998),24/08/1998,3/09/1998,90
+Debby - Hurricane (2000),19/08/2000,24/08/2000,65
+Emily - Hurricane (2005),11/07/2005,21/07/2005,135
+Erika - Hurricane (1997),3/09/1997,15/09/1997,110
+Erin - Hurricane (2001),1/09/2001,15/09/2001,105
+Fay - Hurricane (2014),10/10/2014,13/10/2014,65
+Florence - Hurricane (2006),3/09/2006,12/09/2006,80
+Florence - Hurricane (2000),11/09/2000,17/09/2000,70
+Gabrielle - Hurricane (2001),11/09/2001,19/09/2001,70
+Helene - Hurricane (2006),12/09/2006,24/09/2006,105
+Ida - Hurricane (2009),4/11/2009,10/11/2009,90
+Ingrid - Hurricane (2013),12/09/2013,17/09/2013,75
+Irene - Hurricane (2005),4/08/2005,18/08/2005,85
+Irene - Hurricane (1999),13/10/1999,19/10/1999,90
+Irene - Hurricane (2011),20/08/2011,29/08/2011,105
+Iris - Hurricane (2001),4/10/2001,9/10/2001,125
+Jeanne - Hurricane (1998),21/09/1998,1/10/1998,90
+Joyce - Hurricane (2000),25/09/2000,2/10/2000,80
+Karen - Hurricane (2001),12/10/2001,15/10/2001,70
+Katia - Hurricane (2011),29/08/2011,10/09/2011,115
+Katrina - Hurricane (2005),23/08/2005,31/08/2005,150
+Leslie - Hurricane (2012),30/08/2012,11/09/2012,65
+Lili - Hurricane (2002),21/09/2002,4/10/2002,125
+Lisa - Hurricane (1998),5/10/1998,9/10/1998,65
+Maria - Hurricane (2005),1/09/2005,10/09/2005,100
+Maria - Hurricane (2011),6/09/2011,16/09/2011,70
+Michelle - Hurricane (2001),29/10/2001,6/11/2001,120
+Nadine - Hurricane (2012),11/09/2012,4/10/2012,80
+Nicole - Hurricane (1998),24/11/1998,1/12/1998,75
+Olga - Hurricane (2001),24/11/2001,4/12/2001,80
+Ophelia - Hurricane (2005),6/09/2005,18/09/2005,80
+Ophelia - Hurricane (2011),21/09/2011,3/10/2011,120
+Rina - Hurricane (2011),23/10/2011,28/10/2011,95
+Rita - Hurricane (2005),18/09/2005,26/09/2005,150
+Sandy - Hurricane (2012),22/10/2012,29/10/2012,95
+Wilma - Hurricane (2005),15/10/2005,25/10/2005,150
+Alberto - Hurricane (2000),4/08/2000,23/08/2000,110
+Arthur - Hurricane (2014),1/07/2014,5/07/2014,85
+Bill - Hurricane (1997),11/07/1997,13/08/1997,65
+Bill - Hurricane (2009),15/08/2009,24/08/2009,115
+Bret - Hurricane (1999),18/08/1999,23/08/1999,120
+Chris - Hurricane (2012),19/06/2012,22/06/2012,65
+Cristobal - Hurricane (2014),23/08/2014,29/08/2014,75
+Danny - Hurricane (1997),16/07/1997,26/07/1997,70
+Dean - Hurricane (2007),13/08/2007,23/08/2007,145
+Dennis - Hurricane (2005),5/07/2005,13/07/2005,130
+Dennis - Hurricane (1999),24/08/1999,5/09/1999,90
+Earl - Hurricane (1998),31/08/1998,3/09/1998,85
+Edouard - Hurricane (2014),11/09/2014,19/09/2014,100
+Ernesto - Hurricane (2006),24/08/2006,1/09/2006,65
+Ernesto - Hurricane (2012),1/08/2012,10/08/2012,75
+Felix - Hurricane (2001),7/09/2001,19/09/2001,100
+Felix - Hurricane (2007),31/08/2007,5/09/2007,145
+Floyd - Hurricane (1999),7/09/1999,17/09/1999,135
+Fred - Hurricane (2009),7/09/2009,12/09/2009,105
+Georges - Hurricane (1998),15/09/1998,29/09/1998,130
+Gert - Hurricane (1999),11/09/1999,23/09/1999,130
+Gonzalo - Hurricane (2014),12/10/2014,19/10/2014,125
+Gordon - Hurricane (2000),14/09/2000,18/09/2000,65
+Gordon - Hurricane (2012),15/08/2012,20/08/2012,95
+Gordon - Hurricane (2006),11/09/2006,20/09/2006,105
+Gustav - Hurricane (2002),8/09/2002,12/09/2002,80
+Humberto - Hurricane (2007),12/09/2007,14/09/2007,75
+Humberto - Hurricane (2013),8/09/2013,19/09/2013,75
+Humberto - Hurricane (2001),21/09/2001,27/09/2001,90
+Isaac - Hurricane (2000),21/09/2000,1/10/2000,120
+Isaac - Hurricane (2012),21/08/2012,1/09/2012,70
+Isaac - Hurricane (2006),27/09/2006,2/10/2006,75
+Isidore - Hurricane (2002),14/09/2002,26/09/2002,110
+Ivan - Hurricane (1998),20/09/1998,27/09/1998,80
+Jose - Hurricane (1999),17/10/1999,25/10/1999,85
+Karl - Hurricane (1998),23/09/1998,28/09/1998,90
+Keith - Hurricane (2000),28/09/2000,6/10/2000,115
+Kirk - Hurricane (2012),28/08/2012,2/09/2012,90
+Kyle - Hurricane (2002),20/09/2002,12/10/2002,75
+Lenny - Hurricane (1999),13/11/1999,21/11/1999,130
+Lorenzo - Hurricane (2007),25/09/2007,28/09/2007,70
+Michael - Hurricane (2012),3/09/2012,11/09/2012,100
+Michael - Hurricane (2000),17/10/2000,20/10/2000,85
+Mitch - Hurricane (1998),22/10/1998,5/11/1998,155
+Nate - Hurricane (2005),5/09/2005,10/09/2005,80
+Noel - Hurricane (2007),28/10/2007,2/11/2007,70
+Noel - Hurricane (2001),5/11/2001,6/11/2001,65
+Philippe - Hurricane (2005),17/09/2005,24/09/2005,70
+Philippe - Hurricane (2011),24/09/2011,8/10/2011,80
+Rafael - Hurricane (2012),12/10/2012,17/10/2012,80
+Stan - Hurricane (2005),1/10/2005,5/10/2005,70
+Vince - Hurricane (2005),9/10/2005,11/10/2005,65
+Beta - Hurricane (2005),27/10/2005,31/10/2005,100
+Epsilon - Hurricane (2005),29/11/2005,8/12/2005,75
+Eight - Tropical Depression (2009),25/09/2009,26/09/2009,30
+Eight - Tropical Depression (2013),6/09/2013,7/09/2013,30
+Eleven - Tropical Depression (1999) - Atlantic,4/10/1999,6/10/1999,30
+Fifteen - Tropical Depression (2007),11/10/2007,12/10/2007,30
+Five - Tropical Depression (1997),17/07/1997,19/07/1997,30
+Four - Tropical Depression (2000),9/08/2000,11/08/2000,30
+Fourteen - Tropical Depression (2002),14/10/2002,16/10/2002,30
+Nine - Tropical Depression (2000),9/09/2000,9/09/2000,30
+Nine - Tropical Depression (2001),19/09/2001,20/09/2001,30
+Ninete - Tropical Depression (2005),30/09/2005,2/10/2005,30
+One - Tropical Depression (2009),28/05/2009,29/05/2009,30
+One - Tropical Depression (2000),7/06/2000,8/06/2000,25
+Seven - Tropical Depression (1999),5/09/1999,7/09/1999,30
+Seven - Tropical Depression (2002) - Atlantic,7/09/2002,8/09/2002,30
+Ten - Tropical Depression (2005),13/08/2005,14/08/2005,30
+Ten - Tropical Depression (2007),21/09/2007,22/09/2007,30
+Ten - Tropical Depression (2011),25/08/2011,26/08/2011,30
+Twelve - Tropical Depression (1999),6/10/1999,8/10/1999,30
+Twenty-Seven - Tropical Depression (2005),14/11/2005,16/11/2005,30
+Twenty-Two - Tropical Depression (2005),8/10/2005,9/10/2005,30
+Two - Tropical Depression (1999),3/07/1999,3/07/1999,30
+Two - Tropical Depression (2001),12/07/2001,12/07/2001,25
+Two - Tropical Depression (2014),21/07/2014,23/07/2014,30
+Two - Tropical Depression (2000),24/06/2000,25/06/2000,30
+Alberto - Tropical Storm (2006),10/06/2006,14/06/2006,60
+Alberto - Tropical Storm (2012),19/05/2012,22/05/2012,45
+Alex - Tropical Storm (1998),27/07/1998,3/08/1998,45
+Allison - Tropical Storm (2001),5/06/2001,6/06/2001,50
+Alpha - Tropical Storm (2005),22/10/2005,24/10/2005,45
+Ana - Tropical Storm (2009),11/08/2009,17/08/2009,35
+Ana - Tropical Storm (1997),30/06/1997,4/07/1997,40
+Andrea - Tropical Storm (2013),5/06/2013,7/06/2013,55
+Arlene - Tropical Storm (2011),29/06/2011,1/07/2011,55
+Arlene - Tropical Storm (2005),8/06/2005,13/06/2005,60
+Arlene - Tropical Storm (1999),11/06/1999,18/06/1999,50
+Arthur - Tropical Storm (2002),14/07/2002,16/07/2002,50
+Barry - Tropical Storm (2007),1/06/2007,2/06/2007,45
+Barry - Tropical Storm (2013),17/06/2013,20/06/2013,40
+Barry - Tropical Storm (2001),2/08/2001,6/08/2001,60
+Bertha - Tropical Storm (2002),4/08/2002,9/08/2002,35
+Beryl - Tropical Storm (2000),13/08/2000,15/08/2000,45
+Beryl - Tropical Storm (2006),18/07/2006,21/07/2006,50
+Beryl - Tropical Storm (2012),26/05/2012,30/05/2012,60
+Bret - Tropical Storm (2011),17/07/2011,22/07/2011,55
+Bret - Tropical Storm (2005),28/06/2005,30/06/2005,35
+Chantal - Tropical Storm (2007),31/07/2007,1/08/2007,45
+Chantal - Tropical Storm (2013),8/07/2013,10/07/2013,55
+Chantal - Tropical Storm (2001),15/08/2001,22/08/2001,60
+Charley - Tropical Storm (1998),21/08/1998,22/08/1998,50
+Chris - Tropical Storm (2000),18/08/2000,19/08/2000,35
+Chris - Tropical Storm (2006),1/08/2006,5/08/2006,55
+Cindy - Tropical Storm (2011),20/07/2011,22/07/2011,50
+Claudette - Tropical Storm (1997),13/07/1997,16/07/1997,40
+Claudette - Tropical Storm (2009),16/08/2009,18/08/2009,45
+Cristobal - Tropical Storm (2002),5/08/2002,8/08/2002,40
+Danny - Tropical Storm (2009),26/08/2009,29/08/2009,50
+Dean - Tropical Storm (2001),22/08/2001,28/08/2001,60
+Debby - Tropical Storm (2006),21/08/2006,27/08/2006,45
+Debby - Tropical Storm (2012),23/06/2012,27/06/2012,50
+Delta - Tropical Storm (2005),23/11/2005,28/11/2005,60
+Dolly - Tropical Storm (2014),1/09/2014,3/09/2014,45
+Dolly - Tropical Storm (2002),29/08/2002,4/09/2002,55
+Don - Tropical Storm (2011),27/07/2011,30/07/2011,45
+Dorian - Tropical Storm (2013),24/07/2013,3/08/2013,50
+Edouard - Tropical Storm (2002),1/09/2002,6/09/2002,55
+Emily - Tropical Storm (1999),24/08/1999,28/08/1999,55
+Emily - Tropical Storm (2011),1/08/2011,7/08/2011,45
+Erika - Tropical Storm (2009),1/09/2009,4/09/2009,50
+Erin - Tropical Storm (2013),15/08/2013,18/08/2013,35
+Erin - Tropical Storm (2007),15/08/2007,19/08/2007,35
+Ernesto - Tropical Storm (2000),2/09/2000,3/09/2000,35
+Fabian - Tropical Storm (1997),7/10/1997,8/10/1997,40
+Fay - Tropical Storm (2002),5/09/2002,8/09/2002,50
+Fernand - Tropical Storm (2013),25/08/2013,26/08/2013,45
+Florence - Tropical Storm (2012),4/08/2012,6/08/2012,50
+Frances - Tropical Storm (1998),8/09/1998,12/09/1998,55
+Franklin - Tropical Storm (2011),12/08/2011,13/08/2011,40
+Franklin - Tropical Storm (2005),21/07/2005,29/07/2005,60
+Gabrielle - Tropical Storm (2007),8/09/2007,11/09/2007,45
+Gabrielle - Tropical Storm (2013),4/09/2013,13/09/2013,50
+Gamma - Tropical Storm (2005),18/11/2005,21/11/2005,40
+Gert - Tropical Storm (2011),14/08/2011,16/08/2011,50
+Gert - Tropical Storm (2005),23/07/2005,25/07/2005,40
+Grace - Tropical Storm (1997),16/10/1997,17/10/1997,40
+Grace - Tropical Storm (2009),5/10/2009,6/10/2009,60
+Hanna - Tropical Storm (2002),12/09/2002,14/09/2002,45
+Harvey - Tropical Storm (2011),19/08/2011,22/08/2011,50
+Harvey - Tropical Storm (1999),19/09/1999,22/09/1999,50
+Harvey - Tropical Storm (2005) - Atlantic,2/08/2005,8/08/2005,55
+Helene - Tropical Storm (2012),9/08/2012,18/08/2012,40
+Helene - Tropical Storm (2000),15/09/2000,22/09/2000,55
+Henri - Tropical Storm (2009),6/10/2009,8/10/2009,45
+Hermine - Tropical Storm (1998),17/09/1998,20/09/1998,40
+Ingrid - Tropical Storm (2007),12/09/2007,17/09/2007,40
+Jerry - Tropical Storm (2007),23/09/2007,25/09/2007,40
+Jerry - Tropical Storm (2013),29/09/2013,3/10/2013,45
+Jerry - Tropical Storm (2001),6/10/2001,8/10/2001,45
+Jose - Tropical Storm (2005),22/08/2005,23/08/2005,45
+Jose - Tropical Storm (2011),28/08/2011,29/08/2011,40
+Josephine - Tropical Storm (2002),17/09/2002,19/09/2002,50
+Joyce - Tropical Storm (2012),22/08/2012,24/08/2012,35
+Karen - Tropical Storm (2007),25/09/2007,29/09/2007,60
+Karen - Tropical Storm (2013),3/10/2013,6/10/2013,55
+Katrina - Tropical Storm (1999),28/10/1999,1/11/1999,35
+Lee - Tropical Storm (2005),28/08/2005,2/09/2005,35
+Lee - Tropical Storm (2011),2/09/2011,5/09/2011,50
+Leslie - Tropical Storm (2000),5/10/2000,7/10/2000,35
+Lorenzo - Tropical Storm (2013),21/10/2013,24/10/2013,45
+Lorenzo - Tropical Storm (2001),27/10/2001,31/10/2001,35
+Melissa - Tropical Storm (2013),18/11/2013,21/11/2013,55
+Melissa - Tropical Storm (2007),28/09/2007,30/09/2007,40
+Nadine - Tropical Storm (2000),19/10/2000,22/10/2000,50
+Nate - Tropical Storm (2011),7/09/2011,11/09/2011,60
+Olga - Tropical Storm (2007),11/12/2007,13/12/2007,50
+Oscar - Tropical Storm (2012),3/10/2012,5/10/2012,45
+Patty - Tropical Storm (2012),11/10/2012,13/10/2012,40
+Sean - Tropical Storm (2011),8/11/2011,11/11/2011,55
+Tammy - Tropical Storm (2005),5/10/2005,6/10/2005,45
+Tony - Tropical Storm (2012),22/10/2012,25/10/2012,45
+Zeta - Tropical Storm (2005),30/12/2005,6/01/2006,55
+Name,Start Date,End Date,Wind Speed
+Allison - Hurricane (1995),3/06/1995,6/06/1995,65
+Bertha - Hurricane (2014),1/08/2014,6/08/2014,70
+Bonnie - Hurricane (1998),19/08/1998,30/08/1998,100
+Cindy - Hurricane (1999),19/08/1999,31/08/1999,120
+Cindy - Hurricane (2005),3/07/2005,7/07/2005,65
+Danielle - Hurricane (1998),24/08/1998,3/09/1998,90
+Debby - Hurricane (2000),19/08/2000,24/08/2000,65
+Emily - Hurricane (2005),11/07/2005,21/07/2005,135
+Erika - Hurricane (1997),3/09/1997,15/09/1997,110
+Erin - Hurricane (2001),1/09/2001,15/09/2001,105
+Fay - Hurricane (2014),10/10/2014,13/10/2014,65
+Florence - Hurricane (2006),3/09/2006,12/09/2006,80
+Florence - Hurricane (2000),11/09/2000,17/09/2000,70
+Gabrielle - Hurricane (2001),11/09/2001,19/09/2001,70
+Helene - Hurricane (2006),12/09/2006,24/09/2006,105
+Ida - Hurricane (2009),4/11/2009,10/11/2009,90
+Ingrid - Hurricane (2013),12/09/2013,17/09/2013,75
+Irene - Hurricane (2005),4/08/2005,18/08/2005,85
+Irene - Hurricane (1999),13/10/1999,19/10/1999,90
+Irene - Hurricane (2011),20/08/2011,29/08/2011,105
+Iris - Hurricane (2001),4/10/2001,9/10/2001,125
+Jeanne - Hurricane (1998),21/09/1998,1/10/1998,90
+Joyce - Hurricane (2000),25/09/2000,2/10/2000,80
+Karen - Hurricane (2001),12/10/2001,15/10/2001,70
+Katia - Hurricane (2011),29/08/2011,10/09/2011,115
+Katrina - Hurricane (2005),23/08/2005,31/08/2005,150
+Leslie - Hurricane (2012),30/08/2012,11/09/2012,65
+Lili - Hurricane (2002),21/09/2002,4/10/2002,125
+Lisa - Hurricane (1998),5/10/1998,9/10/1998,65
+Maria - Hurricane (2005),1/09/2005,10/09/2005,100
+Maria - Hurricane (2011),6/09/2011,16/09/2011,70
+Michelle - Hurricane (2001),29/10/2001,6/11/2001,120
+Nadine - Hurricane (2012),11/09/2012,4/10/2012,80
+Nicole - Hurricane (1998),24/11/1998,1/12/1998,75
+Olga - Hurricane (2001),24/11/2001,4/12/2001,80
+Ophelia - Hurricane (2005),6/09/2005,18/09/2005,80
+Ophelia - Hurricane (2011),21/09/2011,3/10/2011,120
+Rina - Hurricane (2011),23/10/2011,28/10/2011,95
+Rita - Hurricane (2005),18/09/2005,26/09/2005,150
+Sandy - Hurricane (2012),22/10/2012,29/10/2012,95
+Wilma - Hurricane (2005),15/10/2005,25/10/2005,150
+Alberto - Hurricane (2000),4/08/2000,23/08/2000,110
+Arthur - Hurricane (2014),1/07/2014,5/07/2014,85
+Bill - Hurricane (1997),11/07/1997,13/08/1997,65
+Bill - Hurricane (2009),15/08/2009,24/08/2009,115
+Bret - Hurricane (1999),18/08/1999,23/08/1999,120
+Chris - Hurricane (2012),19/06/2012,22/06/2012,65
+Cristobal - Hurricane (2014),23/08/2014,29/08/2014,75
+Danny - Hurricane (1997),16/07/1997,26/07/1997,70
+Dean - Hurricane (2007),13/08/2007,23/08/2007,145
+Dennis - Hurricane (2005),5/07/2005,13/07/2005,130
+Dennis - Hurricane (1999),24/08/1999,5/09/1999,90
+Earl - Hurricane (1998),31/08/1998,3/09/1998,85
+Edouard - Hurricane (2014),11/09/2014,19/09/2014,100
+Ernesto - Hurricane (2006),24/08/2006,1/09/2006,65
+Ernesto - Hurricane (2012),1/08/2012,10/08/2012,75
+Felix - Hurricane (2001),7/09/2001,19/09/2001,100
+Felix - Hurricane (2007),31/08/2007,5/09/2007,145
+Floyd - Hurricane (1999),7/09/1999,17/09/1999,135
+Fred - Hurricane (2009),7/09/2009,12/09/2009,105
+Georges - Hurricane (1998),15/09/1998,29/09/1998,130
+Gert - Hurricane (1999),11/09/1999,23/09/1999,130
+Gonzalo - Hurricane (2014),12/10/2014,19/10/2014,125
+Gordon - Hurricane (2000),14/09/2000,18/09/2000,65
+Gordon - Hurricane (2012),15/08/2012,20/08/2012,95
+Gordon - Hurricane (2006),11/09/2006,20/09/2006,105
+Gustav - Hurricane (2002),8/09/2002,12/09/2002,80
+Humberto - Hurricane (2007),12/09/2007,14/09/2007,75
+Humberto - Hurricane (2013),8/09/2013,19/09/2013,75
+Humberto - Hurricane (2001),21/09/2001,27/09/2001,90
+Isaac - Hurricane (2000),21/09/2000,1/10/2000,120
+Isaac - Hurricane (2012),21/08/2012,1/09/2012,70
+Isaac - Hurricane (2006),27/09/2006,2/10/2006,75
+Isidore - Hurricane (2002),14/09/2002,26/09/2002,110
+Ivan - Hurricane (1998),20/09/1998,27/09/1998,80
+Jose - Hurricane (1999),17/10/1999,25/10/1999,85
+Karl - Hurricane (1998),23/09/1998,28/09/1998,90
+Keith - Hurricane (2000),28/09/2000,6/10/2000,115
+Kirk - Hurricane (2012),28/08/2012,2/09/2012,90
+Kyle - Hurricane (2002),20/09/2002,12/10/2002,75
+Lenny - Hurricane (1999),13/11/1999,21/11/1999,130
+Lorenzo - Hurricane (2007),25/09/2007,28/09/2007,70
+Michael - Hurricane (2012),3/09/2012,11/09/2012,100
+Michael - Hurricane (2000),17/10/2000,20/10/2000,85
+Mitch - Hurricane (1998),22/10/1998,5/11/1998,155
+Nate - Hurricane (2005),5/09/2005,10/09/2005,80
+Noel - Hurricane (2007),28/10/2007,2/11/2007,70
+Noel - Hurricane (2001),5/11/2001,6/11/2001,65
+Philippe - Hurricane (2005),17/09/2005,24/09/2005,70
+Philippe - Hurricane (2011),24/09/2011,8/10/2011,80
+Rafael - Hurricane (2012),12/10/2012,17/10/2012,80
+Stan - Hurricane (2005),1/10/2005,5/10/2005,70
+Vince - Hurricane (2005),9/10/2005,11/10/2005,65
+Beta - Hurricane (2005),27/10/2005,31/10/2005,100
+Epsilon - Hurricane (2005),29/11/2005,8/12/2005,75
+Eight - Tropical Depression (2009),25/09/2009,26/09/2009,30
+Eight - Tropical Depression (2013),6/09/2013,7/09/2013,30
+Eleven - Tropical Depression (1999) - Atlantic,4/10/1999,6/10/1999,30
+Fifteen - Tropical Depression (2007),11/10/2007,12/10/2007,30
+Five - Tropical Depression (1997),17/07/1997,19/07/1997,30
+Four - Tropical Depression (2000),9/08/2000,11/08/2000,30
+Fourteen - Tropical Depression (2002),14/10/2002,16/10/2002,30
+Nine - Tropical Depression (2000),9/09/2000,9/09/2000,30
+Nine - Tropical Depression (2001),19/09/2001,20/09/2001,30
+Ninete - Tropical Depression (2005),30/09/2005,2/10/2005,30
+One - Tropical Depression (2009),28/05/2009,29/05/2009,30
+One - Tropical Depression (2000),7/06/2000,8/06/2000,25
+Seven - Tropical Depression (1999),5/09/1999,7/09/1999,30
+Seven - Tropical Depression (2002) - Atlantic,7/09/2002,8/09/2002,30
+Ten - Tropical Depression (2005),13/08/2005,14/08/2005,30
+Ten - Tropical Depression (2007),21/09/2007,22/09/2007,30
+Ten - Tropical Depression (2011),25/08/2011,26/08/2011,30
+Twelve - Tropical Depression (1999),6/10/1999,8/10/1999,30
+Twenty-Seven - Tropical Depression (2005),14/11/2005,16/11/2005,30
+Twenty-Two - Tropical Depression (2005),8/10/2005,9/10/2005,30
+Two - Tropical Depression (1999),3/07/1999,3/07/1999,30
+Two - Tropical Depression (2001),12/07/2001,12/07/2001,25
+Two - Tropical Depression (2014),21/07/2014,23/07/2014,30
+Two - Tropical Depression (2000),24/06/2000,25/06/2000,30
+Alberto - Tropical Storm (2006),10/06/2006,14/06/2006,60
+Alberto - Tropical Storm (2012),19/05/2012,22/05/2012,45
+Alex - Tropical Storm (1998),27/07/1998,3/08/1998,45
+Allison - Tropical Storm (2001),5/06/2001,6/06/2001,50
+Alpha - Tropical Storm (2005),22/10/2005,24/10/2005,45
+Ana - Tropical Storm (2009),11/08/2009,17/08/2009,35
+Ana - Tropical Storm (1997),30/06/1997,4/07/1997,40
+Andrea - Tropical Storm (2013),5/06/2013,7/06/2013,55
+Arlene - Tropical Storm (2011),29/06/2011,1/07/2011,55
+Arlene - Tropical Storm (2005),8/06/2005,13/06/2005,60
+Arlene - Tropical Storm (1999),11/06/1999,18/06/1999,50
+Arthur - Tropical Storm (2002),14/07/2002,16/07/2002,50
+Barry - Tropical Storm (2007),1/06/2007,2/06/2007,45
+Barry - Tropical Storm (2013),17/06/2013,20/06/2013,40
+Barry - Tropical Storm (2001),2/08/2001,6/08/2001,60
+Bertha - Tropical Storm (2002),4/08/2002,9/08/2002,35
+Beryl - Tropical Storm (2000),13/08/2000,15/08/2000,45
+Beryl - Tropical Storm (2006),18/07/2006,21/07/2006,50
+Beryl - Tropical Storm (2012),26/05/2012,30/05/2012,60
+Bret - Tropical Storm (2011),17/07/2011,22/07/2011,55
+Bret - Tropical Storm (2005),28/06/2005,30/06/2005,35
+Chantal - Tropical Storm (2007),31/07/2007,1/08/2007,45
+Chantal - Tropical Storm (2013),8/07/2013,10/07/2013,55
+Chantal - Tropical Storm (2001),15/08/2001,22/08/2001,60
+Charley - Tropical Storm (1998),21/08/1998,22/08/1998,50
+Chris - Tropical Storm (2000),18/08/2000,19/08/2000,35
+Chris - Tropical Storm (2006),1/08/2006,5/08/2006,55
+Cindy - Tropical Storm (2011),20/07/2011,22/07/2011,50
+Claudette - Tropical Storm (1997),13/07/1997,16/07/1997,40
+Claudette - Tropical Storm (2009),16/08/2009,18/08/2009,45
+Cristobal - Tropical Storm (2002),5/08/2002,8/08/2002,40
+Danny - Tropical Storm (2009),26/08/2009,29/08/2009,50
+Dean - Tropical Storm (2001),22/08/2001,28/08/2001,60
+Debby - Tropical Storm (2006),21/08/2006,27/08/2006,45
+Debby - Tropical Storm (2012),23/06/2012,27/06/2012,50
+Delta - Tropical Storm (2005),23/11/2005,28/11/2005,60
+Dolly - Tropical Storm (2014),1/09/2014,3/09/2014,45
+Dolly - Tropical Storm (2002),29/08/2002,4/09/2002,55
+Don - Tropical Storm (2011),27/07/2011,30/07/2011,45
+Dorian - Tropical Storm (2013),24/07/2013,3/08/2013,50
+Edouard - Tropical Storm (2002),1/09/2002,6/09/2002,55
+Emily - Tropical Storm (1999),24/08/1999,28/08/1999,55
+Emily - Tropical Storm (2011),1/08/2011,7/08/2011,45
+Erika - Tropical Storm (2009),1/09/2009,4/09/2009,50
+Erin - Tropical Storm (2013),15/08/2013,18/08/2013,35
+Erin - Tropical Storm (2007),15/08/2007,19/08/2007,35
+Ernesto - Tropical Storm (2000),2/09/2000,3/09/2000,35
+Fabian - Tropical Storm (1997),7/10/1997,8/10/1997,40
+Fay - Tropical Storm (2002),5/09/2002,8/09/2002,50
+Fernand - Tropical Storm (2013),25/08/2013,26/08/2013,45
+Florence - Tropical Storm (2012),4/08/2012,6/08/2012,50
+Frances - Tropical Storm (1998),8/09/1998,12/09/1998,55
+Franklin - Tropical Storm (2011),12/08/2011,13/08/2011,40
+Franklin - Tropical Storm (2005),21/07/2005,29/07/2005,60
+Gabrielle - Tropical Storm (2007),8/09/2007,11/09/2007,45
+Gabrielle - Tropical Storm (2013),4/09/2013,13/09/2013,50
+Gamma - Tropical Storm (2005),18/11/2005,21/11/2005,40
+Gert - Tropical Storm (2011),14/08/2011,16/08/2011,50
+Gert - Tropical Storm (2005),23/07/2005,25/07/2005,40
+Grace - Tropical Storm (1997),16/10/1997,17/10/1997,40
+Grace - Tropical Storm (2009),5/10/2009,6/10/2009,60
+Hanna - Tropical Storm (2002),12/09/2002,14/09/2002,45
+Harvey - Tropical Storm (2011),19/08/2011,22/08/2011,50
+Harvey - Tropical Storm (1999),19/09/1999,22/09/1999,50
+Harvey - Tropical Storm (2005) - Atlantic,2/08/2005,8/08/2005,55
+Helene - Tropical Storm (2012),9/08/2012,18/08/2012,40
+Helene - Tropical Storm (2000),15/09/2000,22/09/2000,55
+Henri - Tropical Storm (2009),6/10/2009,8/10/2009,45
+Hermine - Tropical Storm (1998),17/09/1998,20/09/1998,40
+Ingrid - Tropical Storm (2007),12/09/2007,17/09/2007,40
+Jerry - Tropical Storm (2007),23/09/2007,25/09/2007,40
+Jerry - Tropical Storm (2013),29/09/2013,3/10/2013,45
+Jerry - Tropical Storm (2001),6/10/2001,8/10/2001,45
+Jose - Tropical Storm (2005),22/08/2005,23/08/2005,45
+Jose - Tropical Storm (2011),28/08/2011,29/08/2011,40
+Josephine - Tropical Storm (2002),17/09/2002,19/09/2002,50
+Joyce - Tropical Storm (2012),22/08/2012,24/08/2012,35
+Karen - Tropical Storm (2007),25/09/2007,29/09/2007,60
+Karen - Tropical Storm (2013),3/10/2013,6/10/2013,55
+Katrina - Tropical Storm (1999),28/10/1999,1/11/1999,35
+Lee - Tropical Storm (2005),28/08/2005,2/09/2005,35
+Lee - Tropical Storm (2011),2/09/2011,5/09/2011,50
+Leslie - Tropical Storm (2000),5/10/2000,7/10/2000,35
+Lorenzo - Tropical Storm (2013),21/10/2013,24/10/2013,45
+Lorenzo - Tropical Storm (2001),27/10/2001,31/10/2001,35
+Melissa - Tropical Storm (2013),18/11/2013,21/11/2013,55
+Melissa - Tropical Storm (2007),28/09/2007,30/09/2007,40
+Nadine - Tropical Storm (2000),19/10/2000,22/10/2000,50
+Nate - Tropical Storm (2011),7/09/2011,11/09/2011,60
+Olga - Tropical Storm (2007),11/12/2007,13/12/2007,50
+Oscar - Tropical Storm (2012),3/10/2012,5/10/2012,45
+Patty - Tropical Storm (2012),11/10/2012,13/10/2012,40
+Sean - Tropical Storm (2011),8/11/2011,11/11/2011,55
+Tammy - Tropical Storm (2005),5/10/2005,6/10/2005,45
+Tony - Tropical Storm (2012),22/10/2012,25/10/2012,45
+Zeta - Tropical Storm (2005),30/12/2005,6/01/2006,55
